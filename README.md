@@ -18,7 +18,7 @@ This project is a personal portfolio website that provides information about me.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SwatiJain25/my-portfolio.git
+    git clone https://github.com/SwatiJain25/my-portfolio
     ```
 2. Navigate to the project directory:
     ```bash
